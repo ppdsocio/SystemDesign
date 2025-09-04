@@ -91,14 +91,14 @@
         <mxCell id="suief4yFfAgGJzJjzFjQ-51" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" vertex="1" parent="1">
           <mxGeometry x="134.5" y="510" width="21" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="suief4yFfAgGJzJjzFjQ-52" value="Counter Limit:&lt;div&gt;&lt;br&gt;&lt;div&gt;Haptics Effect for Limit:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Haptics Limit for each count:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dark Mode:&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="suief4yFfAgGJzJjzFjQ-52" value="Max Counter Limit:&lt;br&gt;&lt;br&gt;1st Counter Limit:&lt;br&gt;&lt;br&gt;2nd Counter Limit:&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;Haptics Effect for Limit:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Haptics Limit for each count:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dark Mode:&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="567" y="150" width="215" height="220" as="geometry" />
         </mxCell>
         <mxCell id="suief4yFfAgGJzJjzFjQ-53" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons_Fill_Vol_2-2187/toggle-592.svg" vertex="1" parent="1">
-          <mxGeometry x="760" y="290" width="22" height="22" as="geometry" />
+          <mxGeometry x="760" y="333" width="22" height="22" as="geometry" />
         </mxCell>
         <mxCell id="suief4yFfAgGJzJjzFjQ-54" value="&amp;nbsp; Light" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingRight=20;" vertex="1" parent="1">
-          <mxGeometry x="725" y="261" width="70" height="29" as="geometry" />
+          <mxGeometry x="725" y="303" width="72.41" height="30" as="geometry" />
         </mxCell>
         <mxCell id="suief4yFfAgGJzJjzFjQ-55" value="" style="shape=triangle;direction=south;fillColor=#ffffff;strokeColor=none;perimeter=none;" vertex="1" parent="suief4yFfAgGJzJjzFjQ-54">
           <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
@@ -106,18 +106,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="suief4yFfAgGJzJjzFjQ-56" value="&amp;nbsp; Heavy" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingRight=20;" vertex="1" parent="1">
-          <mxGeometry x="725" y="224" width="70" height="29" as="geometry" />
+          <mxGeometry x="725" y="267" width="70" height="29" as="geometry" />
         </mxCell>
         <mxCell id="suief4yFfAgGJzJjzFjQ-57" value="" style="shape=triangle;direction=south;fillColor=#ffffff;strokeColor=none;perimeter=none;" vertex="1" parent="suief4yFfAgGJzJjzFjQ-56">
           <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="suief4yFfAgGJzJjzFjQ-58" value="108" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="737" y="190" width="45" height="30" as="geometry" />
+        <mxCell id="suief4yFfAgGJzJjzFjQ-58" value="50" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="207" width="35" height="23" as="geometry" />
         </mxCell>
         <mxCell id="suief4yFfAgGJzJjzFjQ-59" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.keyboard;sketch=0;fillColorStyles=fillColor2,fillColor3,fillColor4,fillColor5;fillColor2=#000000;fillColor3=#333333;fillColor4=#ffffff;fillColor5=#999999;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="380" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="suief4yFfAgGJzJjzFjQ-61" value="100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="238" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="suief4yFfAgGJzJjzFjQ-62" value="108" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="180" width="35" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
